@@ -1,5 +1,5 @@
 # Jaya Mewada
 
-*Computer Science @ VIT Bhopal*
+## B.Tech CSE · VIT Bhopal
 
-Ideas, documented in code.
+> Building things, quietly.
